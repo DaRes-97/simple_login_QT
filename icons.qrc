@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/console_icon.png</file>
+        <file>resources/login_icon.png</file>
+    </qresource>
+</RCC>
